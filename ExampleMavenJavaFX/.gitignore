@@ -1,2 +1,6 @@
 /.idea/
+<<<<<<< HEAD
+=======
+/ExampleMavenJavaFX.iml
+>>>>>>> feature/java-maven-FX
 /target/
