@@ -17,8 +17,7 @@ public class MainController {
 
     @FXML
     public void onBtnClick(){
-        area.appendText("Hello world");
-        area.appendText("What`a up");
+        area.appendText("Hello");
         logger.info("Hello");
     }
 
